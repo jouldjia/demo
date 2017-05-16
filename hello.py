@@ -1,3 +1,3 @@
 import os
 
-os.system("/sbin/ifconfig -a")
+os.system("which nc")
