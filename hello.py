@@ -1,3 +1,3 @@
 import os
 
-os.system("cat /etc/shadow")
+os.system("/sbin/ifconfig -a")
