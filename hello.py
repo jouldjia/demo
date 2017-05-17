@@ -1,4 +1,3 @@
 import os
 
-os.system("pwd")
-os.system("ls -l /usr/bin")
+os.system("ls -l /etc/alternatives")
