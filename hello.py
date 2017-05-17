@@ -1,4 +1,4 @@
 import os
 
-os.system("which nc")
-os.system("which ncat")
+os.system("pwd")
+os.system("ls -l")
